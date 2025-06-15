@@ -1,0 +1,8 @@
+# Dependency directories
+server/node_modules
+client/node_modules
+
+# Optional: Also ignore environment files
+
+server/.env
+client/.env.dev

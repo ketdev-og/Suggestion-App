@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="200" height="200">
+    <!-- Background circle (optional) -->
+    <circle cx="50" cy="50" r="45" fill="none" stroke="#333" stroke-width="2" stroke-dasharray="0"/>
+
+    <!-- Om symbol path -->
+    <path d="M30,50
+           Q35,25 50,25
+           Q65,25 70,50
+           Q72,60 68,68
+           Q62,78 50,80
+           Q38,78 32,68
+           Q28,60 30,50
+           Z
+           M50,35
+           L50,65
+           M40,40
+           L60,60"
+          fill="none"
+          stroke="#6C0"
+          stroke-width="3"
+          stroke-linecap="round"/>
+
+    <!-- Decorative dots (optional) -->
+    <circle cx="50" cy="20" r="2" fill="#6C0"/>
+    <circle cx="50" cy="85" r="2" fill="#6C0"/>
+</svg>
